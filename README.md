@@ -1,4 +1,4 @@
-[# PhiloMap](http://88.80.186.165:3838/PhiloMap/)
+# [PhiloMap](http://88.80.186.165:3838/PhiloMap/)
 Visulalizing Philosophers Influence
 ![philo1](https://github.com/aalbusaidi/PhiloMap/blob/main/www/philo1.png)
 a web-based tool that helps students remembering all social network analysis concepts by visualizating, interacting and observing the dynamic of graph and network structure in front of their screens. Students can visualize, interact with the source of influence and the target. I build this tool by downloading data from Wikipedia by accessing its API using SPARQL database and with some syntax of sparql I was able to get data and create relational data. I then used Gephi, converted into GEXF, and finally used java-script tools! The tool I developed is very useful for any instructor teaching Social Network Analysis. It is currently used by some instructors from the US who are teaching SNA.
